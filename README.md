@@ -21,7 +21,7 @@ print(Languages)
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical")>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesMatheus&layout=compact&theme=radical")>
 </div>
 <br>
 <br>
