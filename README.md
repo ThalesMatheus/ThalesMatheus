@@ -1,4 +1,4 @@
-
+- A música fala por nós, e no meu caso, o código também!
 
 ```Python
 #Oi! Eu sou o Thales! Pelo visto você chegou aqui de alguma forma. 
